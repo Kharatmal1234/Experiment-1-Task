@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 printf("Full Name\t: Vaishnavi Kharatmal\n");
-printf("Age\t\t: 19\n");
+printf("Age\t\t: 20\n");
 printf("Class\t\t: FE\n");
 printf("Division\t: B\n");
 printf("UIN\t\t: 241M023\n");
